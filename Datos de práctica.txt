@@ -1,6 +1,6 @@
-Nombre: Salvador Calderón
+﻿Nombre: Salvador Calderón
 Edad: 20 años
 Juegos actuales: Overwatch
 Juegos favoritos: Castlevania
-Carrera:
-Especialidad:
+Carrera: Ingeniería ptrolera
+Especialidad: yacimientos
