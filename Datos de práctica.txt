@@ -4,5 +4,5 @@ Juegos actuales: Overwatch
 Juegos favoritos: Castlevania
 Carrera: Ingeniería ptrolera
 Especialidad: yacimientos
-Materia:
-Semestre:
+Materia: Fundamentos de programación
+Semestre: 2020-1
