@@ -1,4 +1,4 @@
-Nombre
-Edad
-Juegos actuales
-Juegos favoritos
+Nombre: Salvador Calderón
+Edad: 20 años
+Juegos actuales: Overwatch
+Juegos favoritos: Castlevania
